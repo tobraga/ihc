@@ -1,3 +1,3 @@
 # ihc
 
-[exemplo]([https://exemplo.com/](https://tobraga.github.io/ihc/index.html)) .
+[exemplo](https://tobraga.github.io/ihc/index.html)
